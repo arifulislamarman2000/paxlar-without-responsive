@@ -1,0 +1,1 @@
+# paxlar-without-responsive
